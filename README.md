@@ -59,10 +59,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Made with ❤️ by [Muktha Suvarna](https://www.linkedin.com/in/muktha-suvarna12)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-```
 
