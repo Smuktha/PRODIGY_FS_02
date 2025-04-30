@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ Employee Management System 👥
 
-## Getting Started
+A modern web app to manage employees — add, edit, and delete employee records with a sleek UI built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- ✅ Add new employees
+- ✅ Inline edit employee details
+- ✅ Delete with confirmation
+- ✅ Responsive and clean UI
+- ✅ Built with App Router (Next.js 13+)
+
+---
+
+## 🖼️ Screenshots
+
+### 🧾 Add Employee
+![Screenshot 2025-04-30 135727](https://github.com/user-attachments/assets/ef1e9fda-4b54-4bf6-a70b-122c654f799b)
+
+
+### ✏️ Inline Edit
+![Edit Employee](./screenshots/edit-employee.png)
+
+### 🗑️ Delete Option
+![Delete Employee](./screenshots/delete-employee.png)
+
+> You can rename your images and add them to a `/screenshots` folder in your project.
+
+---
+
+## ⚙️ Tech Stack
+
+- [Next.js (App Router)](https://nextjs.org/)
+- TypeScript
+- Tailwind CSS
+- Local API Routes (Mock Backend)
+- React Hooks
+
+---
+
+## 📦 Getting Started
 
 ```bash
+git clone https://github.com/Smuktha/prodigy_fs_02.git
+cd prodigy_fs_02
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✍️ Author
 
-## Learn More
+Made with ❤️ by [Muktha Suvarna](https://www.linkedin.com/in/muktha-suvarna12)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License.
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✅ 2. How to Add Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Create a folder `screenshots/` in your project root.
+2. Add your `.png` or `.jpg` files (like `add-employee.png`, etc.).
+3. Commit the images:
+
+```bash
+git add screenshots/
+git commit -m "Add project screenshots"
+git push
+```
+
+---
+
+Would you like me to generate this `README.md` file content for you to copy-paste or directly upload to GitHub?
