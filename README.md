@@ -21,10 +21,12 @@ A modern web app to manage employees — add, edit, and delete employee records 
 
 
 ### ✏️ Inline Edit
-![Edit Employee](./screenshots/edit-employee.png)
+![Screenshot 2025-04-30 135923](https://github.com/user-attachments/assets/d43be6ba-2cb1-4c17-a36d-12644c03a733)
+
+
 
 ### 🗑️ Delete Option
-![Delete Employee](./screenshots/delete-employee.png)
+![Screenshot 2025-04-30 135851](https://github.com/user-attachments/assets/8d602e3a-cb36-45c4-be5d-2d77fdbb74da)
 
 > You can rename your images and add them to a `/screenshots` folder in your project.
 
@@ -64,20 +66,3 @@ Made with ❤️ by [Muktha Suvarna](https://www.linkedin.com/in/muktha-suvarna1
 This project is licensed under the MIT License.
 ```
 
----
-
-## ✅ 2. How to Add Screenshots
-
-1. Create a folder `screenshots/` in your project root.
-2. Add your `.png` or `.jpg` files (like `add-employee.png`, etc.).
-3. Commit the images:
-
-```bash
-git add screenshots/
-git commit -m "Add project screenshots"
-git push
-```
-
----
-
-Would you like me to generate this `README.md` file content for you to copy-paste or directly upload to GitHub?
