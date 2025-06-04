@@ -1,5 +1,5 @@
  Employee Management System 👥
-     
+         
 A modern web app to manage employees — add, edit, and delete employee records with a sleek UI built using **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ---
