@@ -9,7 +9,6 @@ const EmployeeForm: React.FC<EmployeeFormProps> = ({ onSubmit }) => {
   const [email, setEmail] = useState('');
   const [position, setPosition] = useState('');
   const [salary, setSalary] = useState('');
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
