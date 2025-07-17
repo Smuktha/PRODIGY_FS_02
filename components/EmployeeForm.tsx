@@ -4,7 +4,6 @@ import { Employee } from "../types/employee";
 interface EmployeeFormProps {
   onSubmit: (employeeData: Employee) => Promise<void>;
 }
-
 const EmployeeForm: React.FC<EmployeeFormProps> = ({ onSubmit }) => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
