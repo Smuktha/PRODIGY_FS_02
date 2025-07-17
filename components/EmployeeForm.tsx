@@ -2,7 +2,7 @@
         
 import { useState } from 'react';
 import { Employee } from "../types/employee";
-
+ 
 interface EmployeeFormProps {
   onSubmit: (employeeData: Employee) => Promise<void>;
 }
