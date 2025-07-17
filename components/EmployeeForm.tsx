@@ -16,7 +16,6 @@ const EmployeeForm: React.FC<EmployeeFormProps> = ({ onSubmit }) => {
       alert('All fields are required.');
       return;
     }
-
     const newEmployee: Employee = {
       name,
       email,
